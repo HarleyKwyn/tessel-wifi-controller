@@ -1,0 +1,26 @@
+{
+  "name": "tessel-wifi-controller",
+  "version": "0.0.1",
+  "description": "Tessel Wifi Controller utility methods. Never have to manually reset wifi again.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:HarleyKwyn/tessel-wifi-controller.git"
+  },
+  "keywords": [
+    "Tessel",
+    "Wifi",
+    "forever",
+    "disconnect",
+    "connect"
+  ],
+  "author": "HarleyKwyn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HarleyKwyn/tessel-wifi-controller/issues"
+  },
+  "homepage": "https://github.com/HarleyKwyn/tessel-wifi-controller"
+}
